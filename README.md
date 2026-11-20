@@ -39,6 +39,20 @@ Next, I asked Hermes to add a simple counting lesson to `lesson1.txt` for Kinder
 
 For this test, I gave Hermes several instructions at once. I asked it to check the counting lesson, make sure numbers 1 to 5 and their number names were included, review the examples and wording, and leave the original file unchanged. I also asked it to create a separate file named `lesson1_review.txt` containing the review.
 
+### Test 5: Command Execution
+
+I asked Hermes to execute some basic terminal commands to check whether it could interact with the system and return actual results. The commands included checking the current date and time, displaying the working directory, listing files and folders, and checking the installed Python version.
+
+**Commands Tested:**
+- `date`
+- `pwd`
+- `ls -la`
+- `python --version`
+- `python3 --version`
+
+**Result:** Hermes executed all the commands successfully and displayed their outputs. It also identified the existing files in the Kindergarten folder and confirmed that Python 3.14.9 was installed.
+
+
 **Result:** Hermes completed the review, reported that no issues were found, and returned a final PASS result.
 
 **Status:** Passed (Hermes-reported; manual verification pending)
