@@ -52,7 +52,19 @@ I asked Hermes to execute some basic terminal commands to check whether it could
 
 **Result:** Hermes executed all the commands successfully and displayed their outputs. It also identified the existing files in the Kindergarten folder and confirmed that Python 3.14.9 was installed.
 
+### Test 6: Web Search and Web Extraction
 
+I tested Hermes' web search capability by asking it to find the official Hermes Agent documentation. It used the `web_search` tool to find relevant results and `web_extract` to retrieve information from the documentation page.
+
+**Tools Used:**
+- `web_search`
+- `web_extract`
+
+**Result:** Hermes found the official Nous Research documentation and returned its page title, original link, and a short summary covering installation, configuration, tools, memory, skills, and integrations.
+
+**Documentation:** https://hermes-agent.nousresearch.com/docs
+
+**Status:** Passed
 **Result:** Hermes completed the review, reported that no issues were found, and returned a final PASS result.
 
 **Status:** Passed (Hermes-reported; manual verification pending)
