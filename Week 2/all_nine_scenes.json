@@ -1,0 +1,70 @@
+{
+    "grade": "CP1",
+    "language": "French",
+    "learning_objective": "Introduce the letter A and help children recognize its name and sound.",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "title": "Introduction ✨",
+            "duration_seconds": 8,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain, classe africaine colorée et ensoleillée. La maîtresse en pagne wax entre avec un grand sourire. Le tableau noir s'illumine d'étincelles magiques. Les petits élèves Kofi et Adjoua sont assis, attentifs. Voix off enfantine française.",
+            "narration": "Bienvenue les enfants ! Aujourd'hui, on apprend une lettre magique : la lettre A !"
+        },
+        {
+            "scene_number": 2,
+            "title": "La lettre A vivante 🔤",
+            "duration_seconds": 8,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Une grande lettre A colorée apparaît sur le tableau, devient un personnage vivant avec des yeux et un sourire, et saute joyeusement. Classe ensoleillée. Voix off enfantine e  t rigolote pour la lettre A.",
+            "narration": "Coucou ! Je suis la lettre A !"
+        },
+        {
+            "scene_number": 3,
+            "title": "Le son 🔊",
+            "duration_seconds": 8,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. La lettre A vivante brille fort et ouvre grand la bouche, des ondes sonores colorées sortent. Les élèves Kofi et Adjoua répètent en ouvrant la bouche. Classe ensoleillée. Voix off enfantine qui articule bien.",
+            "narration": "Je chante : AAAAA ! Répétez avec moi : aaaaa !"
+        },
+        {
+            "scene_number": 4,
+            "title": "Mot 1 : Ananas 🍍",
+            "duration_seconds": 10,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Un gros ananas apparaît à côté de la lettre A vivante et brille doucement. La maîtresse en pagne wax le montre. Classe ensoleillée. Voix off enfantine française qui articule.",
+            "narration": "A comme Ananas ! Aaa-nanas. On entend aaa au début !"
+        },
+        {
+            "scene_number": 5,
+            "title": "Mot 2 : Avion ✈️",
+            "duration_seconds": 10,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Un avion souriant traverse un ciel ensoleillé, à côté de la lettre A vivante. La maîtresse le montre. Voix off enfantine française.",
+            "narration": "A comme Avion ! Aaa-vion. Encore aaa !"
+        },
+        {
+            "scene_number": 6,
+            "title": "Mot 3 : Abeille 🐝",
+            "duration_seconds": 10,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Une abeille rigolote vole joyeusement autour de la lettre A vivante, dans un décor de nature ensoleillée. La maîtresse la montre. Voix off enfantine française.",
+            "narration": "A comme Abeille ! Aaa-beille. Toujours aaa au début !"
+        },
+        {
+            "scene_number": 7,
+            "title": "Le défi de la lettre A 🙋 (participation de l'enfant — NOUVEAU)",
+            "duration_seconds": 10,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. La lettre A vivante se penche vers l'écran et pose une question à l'enfant. Trois petites images flottent : un ananas, un ballon, un avion. Point d'interrogation lumineux. Classe ensoleillée. Voix off enfantine française.",
+            "narration": "À toi maintenant ! Écoute bien… dans quels mots entends-tu ma chanson, aaa ?"
+        },
+        {
+            "scene_number": 8,
+            "title": "Révision 📖",
+            "duration_seconds": 10,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Sur le tableau, les trois images reviennent : ananas 🍍, avion ✈️, abeille 🐝, avec la lettre A à côté de chacune. La maîtresse en pagne wax relit doucement. Les élèves répètent. Classe ensoleillée. Voix off enfantine française.",
+            "narration": "On révise : Ananas… Avion… Abeille ! Tous commencent par aaa !"
+        },
+        {
+            "scene_number": 9,
+            "title": "Félicitations 🎉",
+            "duration_seconds": 8,
+            "visual_prompt": "Animation 2D cartoon, style livre scolaire africain. Pluie d'étoiles dorées, la lettre A vivante danse avec Kofi et Adjoua, un badge médaille \"A\" apparaît en brillant. La maîtresse applaudit. Ambiance magique et festive. Voix off enfantine française.",
+            "narration": "Bravo les enfants ! Vous avez appris la lettre A ! Vous gagnez le badge A !"
+        }
+    ]
+}

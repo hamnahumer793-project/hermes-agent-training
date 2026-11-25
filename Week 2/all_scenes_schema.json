@@ -1,0 +1,67 @@
+
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "CP1 French Letter A - Nine Scenes",
+    "description": "Validation schema for the nine-scene French lesson.",
+    "type": "object",
+    "required": [
+        "grade",
+        "language",
+        "learning_objective",
+        "scenes"
+    ],
+    "properties": {
+        "grade": {
+            "type": "string",
+            "minLength": 1
+        },
+        "language": {
+            "type": "string",
+            "const": "French"
+        },
+        "learning_objective": {
+            "type": "string",
+            "minLength": 1
+        },
+        "scenes": {
+            "type": "array",
+            "minItems": 9,
+            "maxItems": 9,
+            "items": {
+                "type": "object",
+                "required": [
+                    "scene_number",
+                    "title",
+                    "duration_seconds",
+                    "visual_prompt",
+                    "narration"
+                ],
+                "properties": {
+                    "scene_number": {
+                        "type": "integer",
+                        "minimum": 1,
+                        "maximum": 9
+                    },
+                    "title": {
+                        "type": "string",
+                        "minLength": 1
+                    },
+                    "duration_seconds": {
+                        "type": "integer",
+                        "minimum": 1
+                    },
+                    "visual_prompt": {
+                        "type": "string",
+                        "minLength": 1
+                    },
+                    "narration": {
+                        "type": "string",
+                        "minLength": 1
+                    }
+                },
+                "additionalProperties": false
+            }
+        }
+    },
+    "additionalProperties": false
+}

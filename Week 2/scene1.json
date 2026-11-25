@@ -1,0 +1,24 @@
+{
+    "grade": "CP1",
+    "language": "French",
+    "learning_objective": "Introduce the letter A and help children recognize its name and sound.",
+    "duration_seconds": 8,
+    "scenes": [
+        {
+            "scene_number": 1,
+            "title": "Introduction"
+        }
+    ],
+    "narration": "Bienvenue les enfants ! Aujourd'hui, on apprend une lettre magique : la lettre A !",
+    "visual_prompt": "Animation 2D cartoon, style livre scolaire africain, classe africaine colorée et ensoleillée. La maîtresse en pagne wax entre avec un grand sourire. Le tableau noir s'illumine d'étincelles magiques. Les petits élèves Kofi et Adjoua sont assis, attentifs. Voix off enfantine française.",
+    "quality_checks": {
+        "has_grade": true,
+        "has_language": true,
+        "has_learning_objective": true,
+        "has_narration": true,
+        "has_visual_prompt": true,
+        "duration_is_positive": true,
+        "has_scenes": true,
+        "scenes_are_valid": true
+    }
+}
